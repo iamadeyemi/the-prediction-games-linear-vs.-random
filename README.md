@@ -1,4 +1,4 @@
-**The Prediction Games: Linear vs. Random Regressor**
+**The Prediction Games: Linear vs Random Regressor**
 
 🚀 **Overview**  
 This project explores the predictive power of machine learning models (Linear Regression and Random Forest) to analyze feature importance and model performance. Using a comprehensive dataset, the project highlights the relationships between features, evaluates model accuracy, and visualizes key insights to drive data-driven decision-making.  
