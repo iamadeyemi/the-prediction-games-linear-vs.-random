@@ -28,7 +28,7 @@ This project explores the predictive power of machine learning models (Linear Re
 
 ## 👨‍💻 **Contributors**  
 - **Timothy Adeyemi** 🚀  
-  - **GitHub:** [@iamadeyemi](https://github.com/iamtimothy)  
+  - **GitHub:** [@iamadeyemi](https://github.com/iamadeyemi)  
   - **LinkedIn:** [iamadeyemi](https://www.linkedin.com/in/timothy-ade/)  
 
 ---
