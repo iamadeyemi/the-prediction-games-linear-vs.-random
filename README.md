@@ -24,3 +24,21 @@ This project explores the predictive power of machine learning models (Linear Re
 - **Python Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly  
 - **Machine Learning Models**: Linear Regression, Random Forest Regressor  
 - **Visualization Tools**: Plotly (interactive charts), Matplotlib, Seaborn  
+---
+
+## 👨‍💻 **Contributors**  
+- **Timothy Adeyemi** 🚀  
+  - **GitHub:** [@iamadeyemi](https://github.com/iamtimothy)  
+  - **LinkedIn:** [iamadeyemi](https://www.linkedin.com/in/timothy-ade/)  
+
+---
+
+## 📜 **License**  
+This project is licensed under the **MIT License** – feel free to use and improve it!  
+
+---
+
+## ⭐ **Show Your Support!**  
+If you found this project useful, please **star ⭐ the repository** and share it!  
+
+Happy coding! 🚀🏡💻  
